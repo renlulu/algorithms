@@ -20,9 +20,9 @@ Cheer, thanks MIT for providing such good material for us.
 
 | Algorithm | Description | Sample problem |
 |--|--| --|
-| Divide and Conquer |   | [0023. Merge k sorted lists]() |
+| Divide and Conquer |   | [0023. Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/) |
 | Dynamic Programming |   | []() |
-| Breadth First Search | | [0101. Symmetric Tree]() |
+| Breadth First Search | | [0101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |
 | Depth First Search | | []() |
 
 
@@ -54,6 +54,7 @@ Breadth-first search (BFS) is an algorithm for traversing or searching tree or g
 
 | Problem | Leetcode Link | Solution | Description |
 |--|--|--|--|
+| 0101. Symmetric tree | [0023. Symmetric tree](https://leetcode.com/problems/symmetric-tree/) | [click me](0101_symmetric_tree.go)| sub procedure of merge sort |
 
 ## Depth First Search
 
