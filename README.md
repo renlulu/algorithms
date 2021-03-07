@@ -54,7 +54,7 @@ Breadth-first search (BFS) is an algorithm for traversing or searching tree or g
 
 | Problem | Leetcode Link | Solution | Description |
 |--|--|--|--|
-| 0101. Symmetric tree | [0023. Symmetric tree](https://leetcode.com/problems/symmetric-tree/) | [click me](0101_symmetric_tree.go)| sub procedure of merge sort |
+| 0101. Symmetric tree | [0023. Symmetric tree](https://leetcode.com/problems/symmetric-tree/) | [click me](0101_symmetric_tree.go)| carefully handle if node is nil |
 
 ## Depth First Search
 
