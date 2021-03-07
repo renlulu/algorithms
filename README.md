@@ -22,6 +22,7 @@ Cheer, thanks MIT for providing such good material for us.
 |--|--| --|
 | Divide and Conquer |   | [0023. Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/) |
 | Dynamic Programming |   | []() |
+| Greedy |  | []() |
 | Breadth First Search | | [0101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |
 | Depth First Search | | []() |
 
@@ -41,7 +42,7 @@ Dynamic programming is both a mathematical optimization method and a computer pr
 | Problem | Leetcode Link | Solution | Description |
 |--|--|--|--|
 
-# Greedy
+## Greedy
 
 A greedy algorithm is any algorithm that follows the problem-solving heuristic of making the locally optimal choice at each stage.[1] In many problems, a greedy strategy does not usually produce an optimal solution, but nonetheless, a greedy heuristic may yield locally optimal solutions that approximate a globally optimal solution in a reasonable amount of time. --wikipedia
 
