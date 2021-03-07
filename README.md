@@ -22,8 +22,8 @@ Cheer, thanks MIT for providing such good material for us.
 |--|--| --|
 | Divide and Conquer |   | [0023. Merge k sorted lists]() |
 | Dynamic Programming |   | []() |
-| Breadth First Search | aka bfs  | [0101. Symmetric Tree]() |
-| Depth First Search | aka dfs  | []() |
+| Breadth First Search | | [0101. Symmetric Tree]() |
+| Depth First Search | | []() |
 
 
 ## Divide and Conquer
