@@ -20,7 +20,7 @@ Cheer, thanks MIT for providing such good material for us.
 
 | Algorithm | Description | Sample problem |
 |--|--| --|
-| Divide and Conquer |   | [0023. Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/) |
+| Divide and Conquer |   | [0004.Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) |
 | Dynamic Programming |   | []() |
 | Greedy |  | []() |
 | Breadth First Search | | [0101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |
@@ -33,7 +33,8 @@ In computer science, divide and conquer is an algorithm design paradigm. A divid
 
 | Problem | Leetcode Link | Solution | Description |
 |--|--|--|--|
-| 0023. Merge k sorted lists | [0023. Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [click me](0023_merge_k_sorted_lists.go)| sub procedure of merge sort |
+| 0023. Merge k sorted lists | [0023. Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [click me](0023_merge_k_sorted_lists.go)| |
+| 0023. Median of Two Sorted Arrays | [0004.Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [click me](0004_median_of_two_sorted_arrays.go)| sub procedure of merge sort |
 
 ## Dynamic Programming
 
