@@ -8,6 +8,7 @@
 - [Greedy](#greedy)
 - [Breadth First Search](#breadth-first-search)
 - [Depth First Search](#depth-first-search)
+- [HashMap](#hashmap)
 
 # Overview
 
@@ -30,7 +31,7 @@ Cheer, thanks MIT for providing such good material for us.
 
 ## Divide and Conquer
 
-In computer science, divide and conquer is an algorithm design paradigm. A divide-and-conquer algorithm recursively breaks down a problem into two or more sub-problems of the same or related type, until these become simple enough to be solved directly. The solutions to the sub-problems are then combined to give a solution to the original problem. --wikipedia
+Divide and conquer is an algorithm design paradigm. A divide-and-conquer algorithm recursively breaks down a problem into two or more sub-problems of the same or related type, until these become simple enough to be solved directly. The solutions to the sub-problems are then combined to give a solution to the original problem. --wikipedia
 
 | Problem | Leetcode Link | Solution | Description |
 |--|--|--|--|
@@ -67,6 +68,9 @@ Depth-first search (DFS) is an algorithm for traversing or searching tree or gra
 |--|--|--|--|
 
 ## HashMap
+
+a hash table (hash map) is a data structure that implements an associative array abstract data type, a structure that can map keys to values. A hash table uses a hash function to compute an index, also called a hash code, into an array of buckets or slots, from which the desired value can be found. During lookup, the key is hashed and the resulting hash indicates where the corresponding value is stored. --wikipedia
+
 
 | Problem | Leetcode Link | Solution | Description |
 |--|--|--|--|
