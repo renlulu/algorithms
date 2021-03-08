@@ -81,5 +81,5 @@ A hash table (hash map) is a data structure that implements an associative array
 
 Some useful algorithm and implement in real world.
 
-- (Merkle Patricia Trie)[https://eth.wiki/en/fundamentals/patricia-tree]
+- [Merkle Patricia Trie](https://eth.wiki/en/fundamentals/patricia-tree)
 
