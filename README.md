@@ -25,6 +25,7 @@ Cheer, thanks MIT for providing such good material for us.
 | Greedy |  | []() |
 | Breadth First Search | | [0101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |
 | Depth First Search | | []() |
+| Hash Map | | []() |
 
 
 ## Divide and Conquer
@@ -64,3 +65,10 @@ Depth-first search (DFS) is an algorithm for traversing or searching tree or gra
 
 | Problem | Leetcode Link | Solution | Description |
 |--|--|--|--|
+
+## HashMap
+
+| Problem | Leetcode Link | Solution | Description |
+|--|--|--|--|
+| 0003. Longest Substring Without Repeating Characters | [0003. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [click me](0003_longest_substring_without_repeating_characters.go)| |
+
