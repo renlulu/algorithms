@@ -9,6 +9,7 @@
 - [Breadth First Search](#breadth-first-search)
 - [Depth First Search](#depth-first-search)
 - [HashMap](#hashmap)
+- [Algorithm in practise](#algorithm-in-practise)
 
 # Overview
 
@@ -69,10 +70,16 @@ Depth-first search (DFS) is an algorithm for traversing or searching tree or gra
 
 ## HashMap
 
-a hash table (hash map) is a data structure that implements an associative array abstract data type, a structure that can map keys to values. A hash table uses a hash function to compute an index, also called a hash code, into an array of buckets or slots, from which the desired value can be found. During lookup, the key is hashed and the resulting hash indicates where the corresponding value is stored. --wikipedia
+A hash table (hash map) is a data structure that implements an associative array abstract data type, a structure that can map keys to values. A hash table uses a hash function to compute an index, also called a hash code, into an array of buckets or slots, from which the desired value can be found. During lookup, the key is hashed and the resulting hash indicates where the corresponding value is stored. --wikipedia
 
 
 | Problem | Leetcode Link | Solution | Description |
 |--|--|--|--|
 | 0003. Longest Substring Without Repeating Characters | [0003. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [click me](0003_longest_substring_without_repeating_characters.go)| |
+
+## Algorithm in practise
+
+Some useful algorithm and implement in real world.
+
+- (Merkle Patricia Trie)[https://eth.wiki/en/fundamentals/patricia-tree]
 
