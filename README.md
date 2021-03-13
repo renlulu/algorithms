@@ -3,6 +3,7 @@
 # Table of Content
 
 - [Overview](#overview)
+- [Tree](#tree)  
 - [Divide and Conquer](#divide-and-conquer)
 - [Dynamic Programming](#dynamic-programming)
 - [Greedy](#greedy)
@@ -22,12 +23,20 @@ Cheer, thanks MIT for providing such good material for us.
 
 | Algorithm | Description | Sample problem |
 |--|--| --|
+| Tree |  |  |
 | Divide and Conquer |   | [0004.Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) |
 | Dynamic Programming |   | []() |
 | Greedy |  | []() |
 | Breadth First Search | | [0101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |
 | Depth First Search | | []() |
 | Hash Map | | []() |
+
+
+## Tree
+
+| Problem | Leetcode Link | Solution | Description |
+|--|--|--|--|
+| 0637. Average of Levels in Binary Tree | [0637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [click me](0637_average_of_levels_in_binary_tree.go)| |
 
 
 ## Divide and Conquer
