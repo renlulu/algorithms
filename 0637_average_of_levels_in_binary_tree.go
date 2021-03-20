@@ -27,7 +27,6 @@ import "container/list"
 // Related Topics Tree
 // 👍 1495 👎 171
 
-
 //leetcode submit region begin(Prohibit modification and deletion)
 /**
  * Definition for a binary tree node.
@@ -64,9 +63,8 @@ func averageOfLevels(root *TreeNode) []float64 {
 
 		if count != 0 {
 			average := float64(sum) / float64(count)
-			result = append(result,average)
+			result = append(result, average)
 		}
-
 
 		level++
 		frontier = next
@@ -74,5 +72,5 @@ func averageOfLevels(root *TreeNode) []float64 {
 
 	return result
 }
-//leetcode submit region end(Prohibit modification and deletion)
 
+//leetcode submit region end(Prohibit modification and deletion)
