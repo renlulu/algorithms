@@ -93,7 +93,7 @@ A hash table (hash map) is a data structure that implements an associative array
 | Problem | Leetcode Link | Solution | Description |
 |--|--|--|--|
 | 0001. Two Sum | [0001. Two Sum](https://leetcode.com/problems/two-sum/) | [click me](0001_two_sum.go)| |
-| 0003. Longest Substring Without Repeating Characters | [0003. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [click me](0003_longest_substring_without_repeating_characters.go)| |
+| 0003. Longest Substring Without Repeating Characters | [0003. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [click me](0003_longest_substring_without_repeating_characters.go)| ![worst while using map :( ](asset/0005.png)|
 
 ## Algorithm in practise
 
