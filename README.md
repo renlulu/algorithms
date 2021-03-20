@@ -3,6 +3,7 @@
 # Table of Content
 
 - [Overview](#overview)
+- [List](#list)
 - [Tree](#tree)  
 - [Divide and Conquer](#divide-and-conquer)
 - [Dynamic Programming](#dynamic-programming)
@@ -23,6 +24,7 @@ Cheer, thanks MIT for providing such good material for us.
 
 | Algorithm | Description | Sample problem |
 |--|--| --|
+| List |  |  |
 | Tree |  |  |
 | Divide and Conquer |   | [0004.Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) |
 | Dynamic Programming |   | []() |
@@ -31,6 +33,11 @@ Cheer, thanks MIT for providing such good material for us.
 | Depth First Search | | []() |
 | Hash Map | | []() |
 
+## List
+
+| Problem | Leetcode Link | Solution | Description |
+|--|--|--|--|
+| 0002. Add Two Numbers | [0002. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [click me](0002_add_two_numbers.go)| |
 
 ## Tree
 
@@ -54,6 +61,7 @@ Dynamic programming is both a mathematical optimization method and a computer pr
 
 | Problem | Leetcode Link | Solution | Description |
 |--|--|--|--|
+| 0005. Longest Palindromic Substring | [0005. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [click me](0005_longest_palindromic_substring.go)| |
 
 ## Greedy
 
