@@ -101,3 +101,8 @@ Some useful algorithm and implement in real world.
 
 - [Merkle Patricia Trie](https://eth.wiki/en/fundamentals/patricia-tree)
 
+## Papers
+
+- [raft](./papers/raft.pdf)
+- [pbft](./papers/pbft.pdf)
+
