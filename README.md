@@ -107,3 +107,5 @@ Some useful algorithm and implement in real world.
 - [YouTube: Designing for Understandability: The Raft Consensus Algorithm](https://youtu.be/vYp4LYbnnW8)  
 - [PBFT paper](./papers/pbft.pdf)
 - [YouTube: Barbara Liskov at MIT - 2001 EECS Colloquium on Practical Byzantine Fault Tolerance](https://www.youtube.com/watch?v=Uj638eFIWg8&t=951)
+- [Bitcoin: A Peer-to-Peer Electronic Cash System](./papers/bitcoin.pdf)
+- [The ZILLIQA Technical Whitepaper](./papers/zilliqa.pdf)
