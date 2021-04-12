@@ -103,7 +103,7 @@ Some useful algorithm and implement in real world.
 
 ## Papers/Resources
 
-- [raft paper](./papers/raft.pdf)
+- [Raft paper](./papers/raft.pdf)
 - [YouTube: Designing for Understandability: The Raft Consensus Algorithm](https://youtu.be/vYp4LYbnnW8)  
-- [pbft paper](./papers/pbft.pdf)
+- [PBFT paper](./papers/pbft.pdf)
 - [YouTube: Barbara Liskov at MIT - 2001 EECS Colloquium on Practical Byzantine Fault Tolerance](https://www.youtube.com/watch?v=Uj638eFIWg8&t=951)
